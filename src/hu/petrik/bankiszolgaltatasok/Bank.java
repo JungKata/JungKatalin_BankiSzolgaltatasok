@@ -20,5 +20,13 @@ public class Bank {
 
         }
 }
-    public int
+    public int getOsszEgyenleg(Tulajdonos tulajdonos){
+        int osszesítettEgyenleg = 0;
+        for (int i = 0; i < szamlakListaja.size(); i++) {
+            if (szamlakListaja.get(i).getTulajdonos() == tulajdonos){
+                osszesítettEgyenleg += szamlakListaja.get(i).aktEgyenleg;
+            }
+        }
+        return osszesítettEgyenleg;
+    }
 }
