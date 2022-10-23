@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="270b2d2b-e89d-4a0a-a10e-6ade98680db0" name="Changes" comment="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/BankiSzolgaltatas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/BankiSzolgaltatas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/HitelSzamla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/HitelSzamla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Szamla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Szamla.java" afterDir="false" />
+    <list default="true" id="270b2d2b-e89d-4a0a-a10e-6ade98680db0" name="Changes" comment="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;kivesz(összeg)metódus elkészítése pár órás szívás a private változó helyett protected kellett volna">
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/MegtakaritasiSzamla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666518066211</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;kivesz(összeg)metódus elkészítése pár órás szívás a private változó helyett protected kellett volna">
+      <created>1666536401949</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666536401949</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +116,7 @@
     <MESSAGE value="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;befizetendoOsszeg" />
     <MESSAGE value="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;befizetendoOsszeg&#10;kiveszOsszeg metodus" />
     <MESSAGE value="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt" />
+    <MESSAGE value="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;kivesz(összeg)metódus elkészítése pár órás szívás a private változó helyett protected kellett volna" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;kivesz(összeg)metódus elkészítése pár órás szívás a private változó helyett protected kellett volna" />
   </component>
 </project>
