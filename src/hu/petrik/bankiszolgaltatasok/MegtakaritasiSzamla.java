@@ -26,4 +26,9 @@ public class MegtakaritasiSzamla extends Szamla{
         return false;
         }
     }
+
+    public void kamatJovairas(){
+        //aktualis egyenleget szorzos a kamatertekkel ami jelent esetben a kamat valtozo
+        this.aktEgyenleg = (int) (getAktEgyenleg()* this.kamatmerteke);
+    }
 }
