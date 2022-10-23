@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="270b2d2b-e89d-4a0a-a10e-6ade98680db0" name="Changes" comment="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;kivesz(összeg)metódus elkészítése pár órás szívás a private változó helyett protected kellett volna">
-      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/MegtakaritasiSzamla.java" afterDir="false" />
+    <list default="true" id="270b2d2b-e89d-4a0a-a10e-6ade98680db0" name="Changes" comment="6. feladat&#10;megtakaritasiSzamla ostály létrehozása származtatása a szamla osztalybol &#10;double valtozo letrehozasa kamatmertek &#10;construktor, getter, setter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/MegtakaritasiSzamla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/MegtakaritasiSzamla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666536401949</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6. feladat&#10;megtakaritasiSzamla ostály létrehozása származtatása a szamla osztalybol &#10;double valtozo letrehozasa kamatmertek &#10;construktor, getter, setter">
+      <created>1666536606436</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666536606436</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +125,7 @@
     <MESSAGE value="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;befizetendoOsszeg&#10;kiveszOsszeg metodus" />
     <MESSAGE value="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt" />
     <MESSAGE value="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;kivesz(összeg)metódus elkészítése pár órás szívás a private változó helyett protected kellett volna" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.feladat&#10;HitelKeret osztály Szamla osztalybol származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;kivesz(összeg)metódus elkészítése pár órás szívás a private változó helyett protected kellett volna" />
+    <MESSAGE value="6. feladat&#10;megtakaritasiSzamla ostály létrehozása származtatása a szamla osztalybol &#10;double valtozo letrehozasa kamatmertek &#10;construktor, getter, setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="6. feladat&#10;megtakaritasiSzamla ostály létrehozása származtatása a szamla osztalybol &#10;double valtozo letrehozasa kamatmertek &#10;construktor, getter, setter" />
   </component>
 </project>
