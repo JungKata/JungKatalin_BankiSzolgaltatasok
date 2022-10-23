@@ -12,4 +12,9 @@ public class Szamla  extends BankiSzolgaltatas{
     public int getAktEgyenleg() {
         return aktEgyenleg;
     }
+
+    public void befizetendoOsszeg(int osszeg){
+        // aktualis egyenleghez hozzáadni a befizetendo osszeget
+        this.aktEgyenleg =+ osszeg;
+        }
 }
