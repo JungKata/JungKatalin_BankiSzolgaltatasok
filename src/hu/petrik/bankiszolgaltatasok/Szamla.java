@@ -2,7 +2,7 @@ package hu.petrik.bankiszolgaltatasok;
 
 public class Szamla  extends BankiSzolgaltatas{
 
-    private int aktEgyenleg;
+    protected int aktEgyenleg;
 
     public Szamla(Tulajdonos tulajdonos, int aktEgyenleg) {
         super(tulajdonos);
@@ -15,7 +15,7 @@ public class Szamla  extends BankiSzolgaltatas{
 
     public void befizetendoOsszeg(int osszeg){
         // aktualis egyenleghez hozzáadni a befizetendo osszeget
-        this.aktEgyenleg =+ osszeg;
+        this.aktEgyenleg += osszeg;
         }
 
     public boolean kiveszOsszeg(int osszeg){
