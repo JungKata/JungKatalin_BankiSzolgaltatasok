@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="270b2d2b-e89d-4a0a-a10e-6ade98680db0" name="Changes" comment="6. feladat&#10;megtakaritasiSzamla ostály létrehozása származtatása a szamla osztalybol &#10;double valtozo letrehozasa kamatmertek &#10;construktor, getter, setter&#10;kivesz fuggvény 0-nál nagyobbnál&#10;KamatJovairas fuggveny elkeszitese">
-      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Kartya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="270b2d2b-e89d-4a0a-a10e-6ade98680db0" name="Changes" comment="7.feladat &#10;Kártya osztály létrehozása&#10;Szamla szamla valtozo, kártyaszám valtozo letrehozás&#10;construktor&#10;majd egy getter a kartyastamhoz&#10;vasarlas metodus letrehozássa">
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Szamla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Szamla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666537916093</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="7.feladat &#10;Kártya osztály létrehozása&#10;Szamla szamla valtozo, kártyaszám valtozo letrehozás&#10;construktor&#10;majd egy getter a kartyastamhoz&#10;vasarlas metodus letrehozássa">
+      <created>1666538439550</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666538439550</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +148,7 @@
     <MESSAGE value="6. feladat&#10;megtakaritasiSzamla ostály létrehozása származtatása a szamla osztalybol &#10;double valtozo letrehozasa kamatmertek &#10;construktor, getter, setter" />
     <MESSAGE value="6. feladat&#10;megtakaritasiSzamla ostály létrehozása származtatása a szamla osztalybol &#10;double valtozo letrehozasa kamatmertek &#10;construktor, getter, setter&#10;kivesz fuggvény 0-nál nagyobbnál" />
     <MESSAGE value="6. feladat&#10;megtakaritasiSzamla ostály létrehozása származtatása a szamla osztalybol &#10;double valtozo letrehozasa kamatmertek &#10;construktor, getter, setter&#10;kivesz fuggvény 0-nál nagyobbnál&#10;KamatJovairas fuggveny elkeszitese" />
-    <option name="LAST_COMMIT_MESSAGE" value="6. feladat&#10;megtakaritasiSzamla ostály létrehozása származtatása a szamla osztalybol &#10;double valtozo letrehozasa kamatmertek &#10;construktor, getter, setter&#10;kivesz fuggvény 0-nál nagyobbnál&#10;KamatJovairas fuggveny elkeszitese" />
+    <MESSAGE value="7.feladat &#10;Kártya osztály létrehozása&#10;Szamla szamla valtozo, kártyaszám valtozo letrehozás&#10;construktor&#10;majd egy getter a kartyastamhoz&#10;vasarlas metodus letrehozássa" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.feladat &#10;Kártya osztály létrehozása&#10;Szamla szamla valtozo, kártyaszám valtozo letrehozás&#10;construktor&#10;majd egy getter a kartyastamhoz&#10;vasarlas metodus letrehozássa" />
   </component>
 </project>
