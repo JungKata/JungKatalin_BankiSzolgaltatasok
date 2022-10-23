@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="270b2d2b-e89d-4a0a-a10e-6ade98680db0" name="Changes" comment="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt">
+    <list default="true" id="270b2d2b-e89d-4a0a-a10e-6ade98680db0" name="Changes" comment="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;befizetendoOsszeg">
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Szamla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Szamla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666517357448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;befizetendoOsszeg">
+      <created>1666517565291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666517565291</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +92,7 @@
     <MESSAGE value="2.feladat" />
     <MESSAGE value="3.feladat&#10;tulajdonos &#10;construktor&#10;getter olvashatosag miatt&#10;gitignore" />
     <MESSAGE value="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt" />
+    <MESSAGE value="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;befizetendoOsszeg" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.feladat&#10;számla osztály bankiSzolgaltatás származtatás&#10;construktor&#10;getter olvashatosag miatt&#10;befizetendoOsszeg" />
   </component>
 </project>

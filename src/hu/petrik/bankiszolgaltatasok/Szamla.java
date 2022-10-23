@@ -17,4 +17,9 @@ public class Szamla  extends BankiSzolgaltatas{
         // aktualis egyenleghez hozzáadni a befizetendo osszeget
         this.aktEgyenleg =+ osszeg;
         }
+
+    public boolean kiveszOsszeg(int osszeg){
+        return false;
+    }
+
 }
